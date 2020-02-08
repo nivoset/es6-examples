@@ -17,6 +17,7 @@
     "nodemon": "^2.0.2"
   },
   "dependencies": {
+    "grouping-by": "^1.0.0",
     "uuid": "^3.4.0"
   }
 }
